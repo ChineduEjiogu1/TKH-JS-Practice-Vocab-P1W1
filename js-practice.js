@@ -47,9 +47,12 @@ console.log(helloWorld());
 //3. arrays
 //a. define a variable myArray and assign it to a value of an array. Give the array at least 5 elements
 const myArray = ["Apple", "Grapes", "Banana", "Tangerine", "Cantaloupe"];
-//b. an array's index starts at:
+//b. an array's index starts at: 0
 //
-myArray[0] = "Apple";
+
+console.log(myArray[0]);
+0
+
 
 //4. loops
 
